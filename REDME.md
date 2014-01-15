@@ -1,0 +1,1 @@
+这是魔泊网参赛的作品。基于php5、mysql、apache2
