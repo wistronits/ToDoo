@@ -58,11 +58,11 @@ return  array(
 
     /* 数据库设置 */
     'DB_TYPE'               => 'mysql',     // 数据库类型
-    'DB_HOST'               => 'localhost', // 服务器地址
-    'DB_NAME'               => '',          // 数据库名
-    'DB_USER'               => 'root',      // 用户名
-    'DB_PWD'                => '',          // 密码
-    'DB_PORT'               => '',        // 端口
+    'DB_HOST'               => '10.4.3.233', // 服务器地址
+    'DB_NAME'               => 'd80cb137f3c2945959d3691a2284b2f74',          // 数据库名
+    'DB_USER'               => 'uGz5vUEbxIJIZ',      // 用户名
+    'DB_PWD'                => 'pUmTLb5rTDahH',          // 密码
+    'DB_PORT'               => '3306',        // 端口
     'DB_PREFIX'             => 'think_',    // 数据库表前缀
     'DB_FIELDTYPE_CHECK'    => false,       // 是否进行字段类型检查
     'DB_FIELDS_CACHE'       => true,        // 启用字段缓存
